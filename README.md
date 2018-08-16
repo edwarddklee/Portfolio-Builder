@@ -1,5 +1,5 @@
 # Portfolio-Backtester
-3-part code created as a Python Developer for hedge fund, Autumn Winds Asset Management during Summer of 2018. 
+3-part code created as a Python Developer for hedge fund: Autumn Winds Asset Management during Summer of 2018. 
 
 # Overview
 
