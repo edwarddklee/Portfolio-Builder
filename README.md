@@ -7,7 +7,7 @@ What this program attempts to accomplish in a three step process is to:
 
 1. Take 1700+ stock data and merge it into a master dataframe given a start date.
 
-2. Determine portfolio growth of certain stocks using position sizing analysis.
+2. Determine portfolio growth of certain stocks using position sizing analysis rebalancing at either monthly, quarterly, or annualy.
 
 3. Take the growth of portfolio and calculate performance. 
 
