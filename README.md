@@ -92,7 +92,7 @@ RebalanceDate_AWAM..: csv file for each portfolio where the rebalance date happe
 
 What this program does:
 
-Takes the data from Part II, and calculates performance, returning a line-graph with the growth of both the Portfolio and the Index, calculates monthly and annual returns of the portfolio, reference data, and alpha. Lastly, it creates return from inception, which is all in one excel file.
+Using xlsxwriter, this program takes the data from Part II, and calculates performance, returning a line-graph with the growth of both the Portfolio and the Index, calculates monthly and annual returns of the portfolio, reference data, and alpha. Lastly, it creates return from inception, which is all in one excel file.
 
 
 Important Variables:
