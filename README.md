@@ -14,8 +14,11 @@ What this program does:
 This takes all the stock data from one folder and merges them into a master dataframe for use in the second step of the portfolio performance analysis. 
 
 Important Variables:
+
 path_ref: file path to the reference data that will be the basis of the merge
+
 path: path to the folder with the data files of the individual stocks that will be merged
+
 dateStart: start date of where the master dataframe will start and continue to end of file. Format 
      should be “YYYY-MM-DD” i.e. “2005-01-07”
 
